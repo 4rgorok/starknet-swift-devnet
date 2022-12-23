@@ -1,1 +1,3 @@
-# starknet-swift-devnet
+# devnet
+
+A description of this package.
